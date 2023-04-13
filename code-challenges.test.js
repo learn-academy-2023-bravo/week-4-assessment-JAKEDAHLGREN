@@ -131,7 +131,7 @@ describe("noDoubles", () => {
 //  FAIL  ./code-challenges.test.js
 //  ● noDoubles › takes in two arrays as arguments
       //  ReferenceError: noDoubles is not defined
-
+ 
 const dataArray1 = ["array", "object", "number", "string", "Boolean"]
 const dataArray2 = ["string", "null", "Boolean", "string", "undefined"]
 // Expected output: ["array", "object", "number", "string", "Boolean", "null", "undefined"]

@@ -101,7 +101,7 @@ def palindrome_test (string)
         "#{string} is not a palindrome"
     end
 end 
-
+ 
 p palindrome_test(palindrome_tester1)
 # Output:"Racecar is a palindrome"
 p palindrome_test(palindrome_tester2)
